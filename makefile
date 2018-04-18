@@ -6,6 +6,5 @@ try.txt: ./a.out
 
 	./a.out> try.txt
 
-a.out: ValentinaJimenez_hw11.cpp
-	c++ ValentinaJimenez_hw11.cpp
-	
+a.out: VJ_gravity.cpp
+c++ VJ_gravity.cpp
